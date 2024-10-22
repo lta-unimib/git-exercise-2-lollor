@@ -4,5 +4,6 @@ public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
 		System.out.println("Stampa aggiunta alla prima commit");
+		System.out.println("Stampa aggiunta alla seconda commit");
 	}
 }
